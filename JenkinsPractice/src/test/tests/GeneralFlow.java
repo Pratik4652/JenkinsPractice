@@ -14,6 +14,8 @@ public class GeneralFlow extends Setup{
 		Thread.sleep(2000);
 		LandObj.AddAppsBtnClick();
 		Thread.sleep(2000);
+		chromedvr.navigate().back();
+		Thread.sleep(2000);
 		LandObj.ForcastBtnClick();
 		Thread.sleep(2000);
 		LandObj.LogoutBtnClick();
