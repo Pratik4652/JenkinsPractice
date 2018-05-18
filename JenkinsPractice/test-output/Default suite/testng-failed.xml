@@ -7,6 +7,7 @@
         <methods>
           <include name="BrowserExit"/>
           <include name="GeneralFlowForTesting"/>
+          <include name="Login"/>
         </methods>
       </class> <!-- test.tests.GeneralFlow -->
     </classes>
