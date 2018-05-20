@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<<<<<<< HEAD
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+=======
+<suite configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+>>>>>>> b820d2df8bff5608d15699ef751e6ab4ec4a2101
   <test name="Test(failed)">
     <classes>
       <class name="test.tests.GeneralFlow">

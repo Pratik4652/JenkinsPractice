@@ -17,7 +17,7 @@ public class Setup {
 	public void Login() throws InterruptedException{
 		System.setProperty("webdriver.chrome.driver", "webdrivers//chromedriver.exe");
 		chromedvr = new ChromeDriver();	
-		chromedvr.manage().window().maximize();
+		
 		chromedvr.get("http://10.10.5.25:11506/admin/login/?next=/admin//");
 		
 		

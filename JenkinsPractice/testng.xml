@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<<<<<<< HEAD
 <suite name="Suite">
+=======
+<suite name="Suite" configfailurepolicy="continue">
+>>>>>>> b820d2df8bff5608d15699ef751e6ab4ec4a2101
   <test name="Test">
     <classes>
       <class name="test.tests.GeneralFlow"/>
