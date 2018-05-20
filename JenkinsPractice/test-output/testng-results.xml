@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24425" started-at="2018-05-14T09:44:27Z" finished-at="2018-05-14T09:44:51Z">
+  <suite name="Suite" duration-ms="22833" started-at="2018-05-16T12:05:34Z" finished-at="2018-05-16T12:05:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24425" started-at="2018-05-14T09:44:27Z" finished-at="2018-05-14T09:44:51Z">
+    <test name="Test" duration-ms="22833" started-at="2018-05-16T12:05:34Z" finished-at="2018-05-16T12:05:57Z">
       <class name="test.tests.GeneralFlow">
-        <test-method status="PASS" signature="Login()[pri:0, instance:test.tests.GeneralFlow@458ad742]" name="Login" is-config="true" duration-ms="14593" started-at="2018-05-14T15:29:27Z" finished-at="2018-05-14T15:29:42Z">
+        <test-method status="PASS" signature="Login()[pri:0, instance:test.tests.GeneralFlow@18e8568]" name="Login" is-config="true" duration-ms="12931" started-at="2018-05-16T17:50:34Z" finished-at="2018-05-16T17:50:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="PASS" signature="GeneralFlowForTesting()[pri:0, instance:test.tests.GeneralFlow@458ad742]" name="GeneralFlowForTesting" duration-ms="9076" started-at="2018-05-14T15:29:42Z" finished-at="2018-05-14T15:29:51Z">
+        <test-method status="PASS" signature="GeneralFlowForTesting()[pri:0, instance:test.tests.GeneralFlow@18e8568]" name="GeneralFlowForTesting" duration-ms="9095" started-at="2018-05-16T17:50:47Z" finished-at="2018-05-16T17:50:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GeneralFlowForTesting -->
-        <test-method status="PASS" signature="BrowserExit()[pri:0, instance:test.tests.GeneralFlow@458ad742]" name="BrowserExit" is-config="true" duration-ms="734" started-at="2018-05-14T15:29:51Z" finished-at="2018-05-14T15:29:51Z">
+        <test-method status="PASS" signature="BrowserExit()[pri:0, instance:test.tests.GeneralFlow@18e8568]" name="BrowserExit" is-config="true" duration-ms="794" started-at="2018-05-16T17:50:56Z" finished-at="2018-05-16T17:50:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserExit -->
       </class> <!-- test.tests.GeneralFlow -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

@@ -2,10 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/GitLab/DBAAutomation/lib/exceldataprovider.jar"/>
-	<classpathentry kind="lib" path="D:/GitLab/DBAAutomation/lib/excelreader_selenium-v3.1.jar"/>
-	<classpathentry kind="lib" path="D:/GitLab/DBAAutomation/lib/selenium-chrome-driver-3.7.1.jar"/>
-	<classpathentry kind="lib" path="D:/GitLab/DBAAutomation/lib/selenium-server-standalone-3.7.1.jar"/>
-	<classpathentry kind="lib" path="D:/GitLab/DBAAutomation/lib/testng-6.11.jar"/>
+	<classpathentry kind="lib" path="D:/gitlab Project Repo/DBAAutomation/lib/exceldataprovider.jar"/>
+	<classpathentry kind="lib" path="D:/gitlab Project Repo/DBAAutomation/lib/excelreader_selenium-v3.1.jar"/>
+	<classpathentry kind="lib" path="D:/gitlab Project Repo/DBAAutomation/lib/selenium-chrome-driver-3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/gitlab Project Repo/DBAAutomation/lib/selenium-server-standalone-3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/gitlab Project Repo/DBAAutomation/lib/testng-6.11.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
